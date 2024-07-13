@@ -15,7 +15,7 @@ Platform: Increase user engagement and time spent on the platform by providing a
 
 ## Analysis Approaches
 
-This project utilises the [Amazon](https://amazon-reviews-2023.github.io/) dataset for fashion product categories which includes information on purchase history and product ratings by users (Downloadable [here](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Amazon_Fashion.jsonl.gz)). The recommendation model is built using the Alternating Least Squares (ALS) algorithm by utilising implicit feedback data. Exploratoty Data Analysis process was also conducted to find out the distribution, description, and insight of the data, Laplace Smoothing approach was used to help prevent bias towards products with few high-ranking reviews in the top products ranking process by adding a constant to each category to avoid zero probability.
+This project utilises the [Amazon](https://amazon-reviews-2023.github.io/) dataset for fashion product categories which includes information on purchase history and product ratings by users (**Downloadable** [**here**](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Amazon_Fashion.jsonl.gz)). The recommendation model is built using the Alternating Least Squares (ALS) algorithm by utilising implicit feedback data. Exploratoty Data Analysis process was also conducted to find out the distribution, description, and insight of the data, Laplace Smoothing approach was used to help prevent bias towards products with few high-ranking reviews in the top products ranking process by adding a constant to each category to avoid zero probability.
 
 ## Business Benefits
 
