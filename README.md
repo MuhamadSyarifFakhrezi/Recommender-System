@@ -9,9 +9,9 @@ Amazon is one of the largest e-commerce platforms in the world that provides a w
 The aim of this project is to develop a recommendation system that can help users find fashion products they like based on their previous shopping behaviour. The recommendation system will use implicit feedback data, such as purchase history and product ratings, to suggest products that may be of interest to users.
 
 **Main Objectives**
-Users: Increase user satisfaction by providing relevant and interesting product recommendations.
-Merchants: Increase sales of fashion products by introducing products to users who may be interested.
-Platform: Increase user engagement and time spent on the platform by providing a personalised shopping experience.
+- Users: Increase user satisfaction by providing relevant and interesting product recommendations.
+- Merchants: Increase sales of fashion products by introducing products to users who may be interested.
+- Platform: Increase user engagement and time spent on the platform by providing a personalised shopping experience.
 
 ## Analysis Approaches
 
@@ -19,6 +19,6 @@ This project utilises the [Amazon](https://amazon-reviews-2023.github.io/) datas
 
 ## Business Benefits
 
-Increased Sales: Relevant recommendations can encourage users to buy more products.
-User Satisfaction: A personalised shopping experience can increase user satisfaction and loyalty.
-Marketing Efficiency: By knowing user preferences, marketing campaigns can be more targeted and effective.
+- Increased Sales: Relevant recommendations can encourage users to buy more products.
+- User Satisfaction: A personalised shopping experience can increase user satisfaction and loyalty.
+- Marketing Efficiency: By knowing user preferences, marketing campaigns can be more targeted and effective.
